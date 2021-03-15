@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "mc": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "woodi",
+      "title": "hello",
+      "skin": "https://gateway.pinata.cloud/ipfs/QmTnRwG9LS1bzcm4ys3gnnqJs8gc4m65kPyXpPVhA86LM2"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
